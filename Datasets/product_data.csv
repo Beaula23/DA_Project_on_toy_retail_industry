@@ -1,0 +1,51 @@
+Product_ID,Product_Name,Category,Price,Stock_Availability,Brand
+P001,Inflatable Pool Toy,Board Games,87,In Stock,Hamleys
+P002,Mini Arcade Game,Board Games,56,Out of Stock,Hamleys
+P003,Toy Kitchen Set,Plush Toys,15,In Stock,Mattel
+P004,Robot Toy,Dolls,7,Low Stock,Mattel
+P005,Teddy Bear,Plush Toys,45,In Stock,Lego
+P006,Kids Microscope,Dolls,47,Low Stock,Hasbro
+P007,Monopoly Board Game,Plush Toys,12,Low Stock,Hasbro
+P008,Lego City Set,Building Toys,41,In Stock,Hasbro
+P009,Wooden Train Set,Building Toys,7,In Stock,Hamleys
+P010,Superhero Figurine,Dolls,46,Out of Stock,Mattel
+P011,Play-Doh Kit,Board Games,53,Out of Stock,Lego
+P012,Bouncy Ball,Building Toys,55,Out of Stock,Lego
+P013,Building Blocks,Board Games,38,Low Stock,Hamleys
+P014,Craft Kit,Building Toys,52,In Stock,Lego
+P015,Toy Drum Set,Dolls,55,Out of Stock,Mattel
+P016,Baby Doll,Building Toys,33,In Stock,Lego
+P017,Spinning Top,Building Toys,17,Low Stock,Mattel
+P018,Walkie Talkies,Dolls,66,Low Stock,Mattel
+P019,Magic 8-Ball,Plush Toys,66,Low Stock,Hasbro
+P020,Dollhouse,Building Toys,69,In Stock,Mattel
+P021,Educational Toy,Dolls,15,Low Stock,Hamleys
+P022,Toy Guitar,Board Games,52,Out of Stock,Hasbro
+P023,Nerf Gun,Building Toys,65,In Stock,Lego
+P024,Kids Telescope,Board Games,14,In Stock,Hamleys
+P025,Toy Garage Set,Plush Toys,33,Low Stock,Hamleys
+P026,Puzzle Set,Dolls,65,Low Stock,Mattel
+P027,Magic Kit,Board Games,45,In Stock,Hasbro
+P028,Finger Skateboard,Board Games,23,Out of Stock,Lego
+P029,Dinosaur Toy,Plush Toys,20,Out of Stock,Hasbro
+P030,Pinball Machine,Building Toys,71,In Stock,Lego
+P031,Jump Rope,Dolls,49,Out of Stock,Hamleys
+P032,Stuffed Unicorn,Building Toys,28,Low Stock,Mattel
+P033,Bubble Maker,Board Games,39,In Stock,Mattel
+P034,Hula Hoop,Board Games,58,Low Stock,Hasbro
+P035,Barbie Doll,Board Games,78,In Stock,Hasbro
+P036,Hot Wheels Car,Building Toys,86,Out of Stock,Hamleys
+P037,Toy Train Set,Building Toys,50,Low Stock,Hasbro
+P038,RC Helicopter,Dolls,71,Low Stock,Hamleys
+P039,Pop It Fidget Toy,Board Games,75,In Stock,Lego
+P040,Yo-Yo,Board Games,9,Out of Stock,Hasbro
+P041,Glow in the Dark Stars,Dolls,8,Low Stock,Hasbro
+P042,Action Figure,Building Toys,87,In Stock,Mattel
+P043,Slime Kit,Plush Toys,100,In Stock,Hamleys
+P044,Toy Cash Register,Board Games,25,Out of Stock,Mattel
+P045,Mini Basketball Hoop,Dolls,5,Out of Stock,Hamleys
+P046,Stuffed Animal,Board Games,97,In Stock,Hasbro
+P047,Model Car Kit,Building Toys,49,In Stock,Hamleys
+P048,Water Gun,Plush Toys,48,In Stock,Hasbro
+P049,Remote Control Car,Dolls,26,In Stock,Hamleys
+P050,Marble Run Set,Building Toys,94,Out of Stock,Lego

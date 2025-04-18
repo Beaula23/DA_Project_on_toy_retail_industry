@@ -1,0 +1,301 @@
+Transaction_ID,Customer_ID,Date,Product_ID,Quantity,Unit_Price,Total_Spend,Store_Location,Purchase_Channel,Payment_Method
+12adcee0-4a6d-4bc9-ad47-6da141c5f40e,C056,2025-02-26,P035,2,10,20,Birmingham,Offline,PayPal
+42432f9a-a059-4c0c-8fc6-69a210aa0a41,C098,2023-09-25,P009,4,78,312,Birmingham,Offline,PayPal
+deb1b2fd-0a71-4d3f-ae6e-b7de321641e8,C056,2024-09-19,P046,5,70,350,Birmingham,Online,Cash
+92e89aa2-d4eb-45a3-86cf-32990b9b1f5e,C021,2021-11-28,P040,2,43,86,Glasgow,Online,Credit Card
+288a0ee1-d222-4de3-99bf-5db62118c97f,C071,2022-11-28,P030,3,48,144,London,Online,PayPal
+f388335f-093d-4513-b5c1-76cbcf599ef0,C059,2024-11-20,P017,2,80,160,Birmingham,Offline,Credit Card
+15cd01a9-1cc7-42f3-90df-6035f7298bf0,C033,2022-04-24,P010,3,94,282,Birmingham,Offline,Cash
+8a955cc6-4818-4e0d-9af4-fd5c7b4566fb,C002,2022-05-18,P013,5,48,240,Birmingham,Online,PayPal
+d0acf74e-4964-4899-a4e3-362651a78e4a,C005,2024-12-31,P038,1,48,48,Manchester,Online,PayPal
+f483a150-21cf-4be6-b3c4-52a62e1f9b85,C005,2020-06-19,P034,1,73,73,Glasgow,Offline,Cash
+665b6b0b-52d2-4efe-a5c2-8e99c72ca8f1,C052,2024-08-05,P011,5,85,425,Manchester,Offline,Credit Card
+5c25607a-1665-4539-bfb4-a73ebd0a919c,C071,2020-03-06,P036,1,79,79,Manchester,Offline,PayPal
+8605868d-8d75-4c32-8dc2-89b3027b9124,C044,2020-08-12,P013,5,48,240,Birmingham,Offline,Credit Card
+0a1da274-69cd-4e4b-8186-bf8a53f86601,C048,2020-12-10,P027,3,70,210,Manchester,Offline,Cash
+3cad42ed-5239-4339-b39d-e0fddea8a9ad,C048,2025-02-04,P038,1,48,48,Manchester,Online,Credit Card
+c0f8b5df-90e0-43e8-9762-1b17f3580dc5,C060,2024-03-24,P046,3,70,210,London,Online,Credit Card
+dd18455c-e467-495d-b8d5-8ea6f86fe561,C008,2023-06-22,P046,5,70,350,Manchester,Online,PayPal
+fdf860a9-0182-4277-9443-8da137e674d1,C060,2020-04-30,P020,5,95,475,Manchester,Online,Credit Card
+0fd79557-9f74-4673-8814-c86fd5ce3860,C027,2023-08-07,P010,1,94,94,Manchester,Online,Credit Card
+56267f0a-3032-44bc-8332-f35923be3fd0,C092,2025-03-18,P020,3,95,285,Glasgow,Offline,PayPal
+647d2ea4-f500-4f1d-aba8-531d16cf1e45,C075,2023-12-07,P006,3,15,45,Birmingham,Offline,PayPal
+e9e05682-fe0d-4509-abdd-9436d2373ba7,C060,2024-04-06,P018,4,74,296,Glasgow,Offline,Credit Card
+9ec8089f-b77e-4d7e-8348-ea35b33219e9,C088,2021-02-21,P012,4,17,68,Manchester,Offline,Credit Card
+3627e547-5ee1-4e0a-a2aa-ff5172f564b5,C029,2021-02-28,P030,5,48,240,London,Offline,Credit Card
+4f2a9ec3-57ee-4204-b01f-757598e85cf5,C063,2020-09-03,P001,3,97,291,Manchester,Offline,PayPal
+2fe9ad87-4c1a-4aa9-9663-eccdc37762b7,C003,2020-03-20,P032,5,63,315,Glasgow,Offline,Credit Card
+5f273b74-8457-4b96-813d-361a6acc386d,C090,2020-06-23,P029,4,85,340,Glasgow,Offline,Cash
+f92542f3-d6d3-471e-b263-c3542c7e8463,C015,2020-04-05,P016,3,98,294,Manchester,Offline,Credit Card
+553dd2b2-a6c9-427f-9eed-39fc790c4917,C014,2020-12-15,P043,5,67,335,Glasgow,Offline,Credit Card
+d22c0649-11a4-4dd7-8677-9a2fecacfcb5,C072,2024-08-12,P010,1,94,94,Glasgow,Offline,Cash
+03faaa9b-186f-4c6a-9906-7e38e68481b3,C093,2021-10-13,P045,3,40,120,Birmingham,Offline,Credit Card
+626c487b-9597-47b9-883a-533999e1637e,C037,2025-02-02,P042,2,92,184,Birmingham,Offline,PayPal
+825a06f0-0d18-43db-bd6b-7fdebb70c75c,C073,2023-06-26,P029,5,85,425,London,Online,PayPal
+7d6c2079-fc70-4e7f-aa7b-f5fc90fc9adf,C005,2022-03-22,P021,2,38,76,Glasgow,Online,PayPal
+b09e6e8c-f215-4129-9b15-218b0fbe7f7b,C074,2024-03-29,P026,2,37,74,Manchester,Offline,Credit Card
+e386e277-2a8a-479f-b8af-a6e0f08e1489,C057,2023-09-02,P027,4,70,280,Birmingham,Online,Credit Card
+2536bfd9-2e18-4f81-8089-efd7437faf8a,C014,2022-01-24,P034,1,73,73,London,Online,Cash
+8478eaaa-a384-46c6-9ce7-3f37801d6959,C041,2022-07-12,P005,3,72,216,London,Offline,PayPal
+5ef1c583-27a5-4e1a-8a38-c406ca56fe26,C045,2020-05-19,P003,2,36,72,Glasgow,Online,Credit Card
+ca2e9984-1af1-4a1c-ab30-6f87875c74ee,C037,2020-01-30,P024,4,88,352,London,Offline,Credit Card
+c2fd17b3-f118-4669-ace3-984a286a6c96,C082,2023-03-03,P028,5,83,415,Manchester,Online,PayPal
+ec02a5b8-f9c7-495f-95c5-8d7b84befea7,C038,2024-06-24,P017,4,80,320,Manchester,Online,PayPal
+87db57da-8876-4595-ab28-4163fc14d16d,C071,2022-01-20,P032,1,63,63,Manchester,Offline,Credit Card
+4c9c65e5-0ebc-4d0d-b3eb-667b0e257ff9,C028,2023-10-16,P033,1,15,15,Birmingham,Offline,Cash
+84680412-c9a2-4385-b4a4-d79894570c80,C047,2025-02-08,P042,5,92,460,London,Offline,PayPal
+f445ac2c-bd58-4202-891a-c77a6cb9d6dd,C023,2021-08-23,P010,1,94,94,London,Offline,Cash
+c1b2033e-e7b1-46ad-9adb-ab13f788f310,C005,2024-08-07,P031,5,11,55,London,Online,Cash
+8f39fbf9-ae73-418e-b4d9-b1bdf56cd3f1,C039,2020-05-27,P025,5,40,200,Glasgow,Online,Credit Card
+9090aaf7-7c6a-47c5-b3ca-aa7c32f157d5,C073,2025-02-07,P019,3,92,276,London,Online,PayPal
+bf100796-7419-4c9b-982a-138b78374f0b,C074,2024-05-21,P001,4,97,388,Birmingham,Offline,Cash
+6edf1c9e-e4cf-4d75-b47d-d99a6a70a415,C076,2023-01-21,P005,1,72,72,Glasgow,Offline,Credit Card
+dd23e006-f184-417c-948a-1c23cff87b79,C088,2024-05-17,P028,3,83,249,Glasgow,Online,Cash
+9f490621-0026-40c0-a1c5-eda98d6b34a5,C066,2024-04-10,P043,3,67,201,London,Online,PayPal
+e0a5920e-233b-4018-bc99-71571a5e85cf,C030,2023-03-31,P019,5,92,460,London,Online,Cash
+0903bdca-42ec-4b53-a8d3-b11d3d9bb9db,C031,2024-01-29,P005,1,72,72,London,Offline,Cash
+d116421d-f185-4e29-9ba8-89fcab23b353,C046,2020-10-05,P008,3,46,138,Birmingham,Offline,Cash
+38596f9b-8216-461f-aedc-f0ee72dcf07e,C004,2024-10-21,P042,5,92,460,Glasgow,Online,Cash
+a7a0fa4c-ae91-4e39-a08c-d1681ab88285,C021,2020-01-26,P041,5,81,405,Manchester,Offline,PayPal
+d62e0ef0-06c4-4992-9b39-a4a3b49ccec0,C030,2024-11-23,P004,1,91,91,Glasgow,Online,Cash
+3e804070-4226-4389-a7eb-3297c40e69b6,C043,2022-07-05,P045,4,40,160,Manchester,Offline,Cash
+18f60e1b-b664-4cf0-846b-06bbefcdaea8,C049,2020-06-11,P046,5,70,350,Birmingham,Online,Cash
+e464b563-3881-4cab-9610-9a6405f3aa76,C082,2022-11-21,P005,4,72,288,Glasgow,Online,Credit Card
+88cb1d52-da2d-4ebd-b503-0f67d7056571,C082,2023-08-16,P026,4,37,148,Manchester,Online,Credit Card
+7facf6df-2e41-4e4e-a45b-c0a0fe0d0d15,C082,2022-08-25,P005,3,72,216,Glasgow,Online,Credit Card
+55e08a85-577a-4f35-ba19-9ea03c77fb4d,C079,2023-11-05,P002,1,92,92,Birmingham,Online,PayPal
+645cfedc-ea0c-4f82-ab3f-6881dc2e098c,C088,2024-09-21,P034,3,73,219,London,Offline,Cash
+f8bf57f4-c109-4604-ad6b-b2301e4e94f3,C076,2022-10-01,P046,5,70,350,Glasgow,Online,Credit Card
+5947d5cf-f409-4c2b-8197-50069f2c3452,C026,2022-05-06,P022,2,78,156,Glasgow,Offline,Credit Card
+8a24404a-b578-4208-a021-ec517f84da0d,C091,2021-09-11,P008,2,46,92,London,Offline,PayPal
+6e7972a7-1457-4e34-85f1-a64269e633cb,C096,2020-08-19,P025,1,40,40,Birmingham,Online,Cash
+db0b34a8-dad0-493a-bc4c-5de17935a7b8,C031,2023-06-13,P029,5,85,425,Glasgow,Online,Cash
+9ac99750-f761-46d5-8e19-465aec991519,C043,2020-05-27,P005,3,72,216,Manchester,Online,PayPal
+85ca6528-3877-4ccd-8737-6b69afca5d7d,C053,2021-04-28,P016,4,98,392,London,Online,Credit Card
+efb3353a-459d-4e75-89ca-b4336a29b576,C012,2020-03-21,P024,5,88,440,London,Online,Credit Card
+5186536a-9628-4bb3-b4f0-563c79abffdb,C064,2024-09-30,P042,2,92,184,Birmingham,Online,Credit Card
+f0a64841-60ef-4945-b7dd-7141157d7b72,C072,2020-10-01,P014,2,65,130,London,Offline,Cash
+334f0231-e280-46d5-9b3e-531a2473c40f,C039,2023-03-01,P019,5,92,460,Birmingham,Online,Credit Card
+c9c67096-7283-482d-9ff9-4e1157526c94,C036,2021-07-18,P009,2,78,156,Manchester,Offline,Cash
+482d3263-df3e-4857-b084-ccb027312a4c,C086,2020-04-03,P011,3,85,255,London,Online,Credit Card
+1ff8f0bd-578d-4471-b37e-e6c5fa1f38d1,C031,2024-09-23,P028,2,83,166,London,Online,PayPal
+0febf955-f437-4a2f-a8bd-de46c4c7f3bb,C014,2024-11-18,P008,2,46,92,Birmingham,Offline,PayPal
+4a54ddf8-e064-455a-a195-857b3960f40e,C006,2020-10-24,P005,5,72,360,Glasgow,Offline,PayPal
+c4b16088-1d6a-4656-bfd1-260a8ba006d6,C067,2022-09-06,P048,4,19,76,Manchester,Offline,Credit Card
+aacfbd09-c32e-4423-bdf8-1ac808e5e4d4,C096,2025-02-27,P021,4,38,152,Glasgow,Online,PayPal
+5a309344-cb83-44ff-ae28-3df3122c2094,C010,2021-01-14,P039,5,27,135,London,Online,Cash
+3ca365ce-7d7c-4f4e-a121-d25fd88c671d,C023,2021-06-09,P020,5,95,475,London,Online,Cash
+dde3967d-c031-48ad-82a4-ae83d65dcf80,C009,2021-05-31,P042,4,92,368,Birmingham,Online,Credit Card
+51ac23bc-a032-4e8f-8536-507c5f67868b,C045,2024-11-23,P010,4,94,376,London,Online,Cash
+fa8fd405-1c83-4fc9-9a3d-715c253fddf6,C020,2024-02-26,P015,3,39,117,Glasgow,Online,PayPal
+8d245bfd-b90e-47d7-b0c9-cdc764664596,C034,2021-08-05,P040,2,43,86,London,Online,PayPal
+04c8969f-398a-46b1-99c8-bdc759f9fd7b,C057,2020-07-15,P021,2,38,76,Birmingham,Offline,Cash
+d3181d8c-ff76-49ef-80cd-56aab5e47718,C082,2020-05-28,P029,1,85,85,Birmingham,Offline,PayPal
+61fd2edc-73a0-4c78-ac83-fb8755f9b042,C083,2021-01-02,P012,5,17,85,Birmingham,Offline,Cash
+1437fed0-72df-4def-8d3d-09350658a2fa,C061,2020-09-07,P032,1,63,63,Birmingham,Online,Cash
+802c2d62-40da-4b62-b467-6e6b85d90fc3,C080,2024-07-11,P036,1,79,79,Glasgow,Online,Cash
+00ba2bf2-ad14-46d0-ab9e-94d4ee6ebd0e,C045,2022-07-27,P017,3,80,240,Birmingham,Online,Cash
+31b37004-b90c-456a-b1af-bb24af9f62f1,C001,2022-08-04,P028,2,83,166,London,Online,Credit Card
+64e34935-848b-46ae-a045-542eb921dc3c,C017,2024-06-02,P033,3,15,45,Glasgow,Online,PayPal
+d8983015-6646-4e2b-97a7-21f86f4bf7ea,C039,2023-05-07,P027,4,70,280,Manchester,Online,PayPal
+c947092e-8dff-4f41-91e3-e97498253fd8,C075,2020-02-24,P046,5,70,350,Glasgow,Offline,Cash
+e537fcee-edc2-47f7-a65a-0f15f12c25c7,C039,2023-10-30,P003,3,36,108,Birmingham,Online,Cash
+75d7ee2f-f6ee-4541-a64f-d1e5eae31d70,C052,2022-08-26,P014,5,65,325,Birmingham,Online,PayPal
+0f5af7df-451c-4998-b385-5c7486968d40,C060,2021-04-30,P003,3,36,108,London,Offline,Credit Card
+360daf9e-bc06-4d2f-9a3c-d7b1b8cbefc9,C067,2021-02-06,P043,4,67,268,London,Offline,PayPal
+f7ccf02c-234a-4d77-b821-a25e8fc91b70,C013,2022-05-28,P020,2,95,190,Birmingham,Offline,PayPal
+b3e54b77-8019-409f-a524-be997d64ac5c,C028,2021-08-16,P023,4,33,132,Glasgow,Offline,Credit Card
+e6126e40-66f3-4ee9-bcbc-a9f28f179387,C006,2022-10-12,P048,2,19,38,Manchester,Offline,Credit Card
+3db96620-5971-4145-9570-75b99585b32b,C015,2021-03-22,P024,1,88,88,Manchester,Online,Credit Card
+8829ead4-0645-41a4-b163-ab8d7e5fbd1c,C071,2020-01-03,P010,3,94,282,London,Offline,PayPal
+7671a18e-f5d1-49f0-8486-2da73bd46022,C015,2020-09-28,P016,3,98,294,Glasgow,Online,Cash
+19e88e41-4145-4b75-aece-ad42a3cf0f34,C074,2020-10-26,P025,3,40,120,Glasgow,Online,PayPal
+3c219d0c-c004-414e-8277-18ed04303cfd,C002,2024-10-25,P001,2,97,194,Birmingham,Offline,Credit Card
+98589d6a-7aef-4a0a-9cc0-0477037f7584,C046,2020-04-06,P032,2,63,126,London,Online,Cash
+361f0556-cae3-4bf7-bc52-458f57047709,C078,2023-05-04,P019,1,92,92,Manchester,Online,Credit Card
+2f71acae-dc21-45db-b55b-f2a721d2f87e,C088,2021-01-23,P030,2,48,96,London,Offline,PayPal
+ea8ee20b-bb88-45fb-846e-8eeddb914719,C005,2023-07-03,P037,5,98,490,Manchester,Offline,Credit Card
+7a3ef5f9-9381-4f3b-9517-a90884f710d1,C099,2020-11-24,P026,4,37,148,Glasgow,Offline,Credit Card
+647c5997-9764-4947-ad32-b99c12d35d1b,C015,2023-04-26,P039,5,27,135,Birmingham,Offline,PayPal
+059e9e8b-50f0-4bbc-a3d9-0d577ecceb8e,C042,2023-09-02,P013,4,48,192,Glasgow,Online,Cash
+f1322785-8d7c-436a-805b-286432659fff,C039,2021-12-14,P026,1,37,37,London,Offline,Cash
+2c8a174d-66b1-4e0b-a589-713d287f051b,C008,2020-03-21,P002,1,92,92,Birmingham,Offline,PayPal
+2cedd099-33f3-4391-903e-fac86f67d536,C011,2023-01-23,P045,1,40,40,Birmingham,Offline,PayPal
+c7c6420e-9f6f-4d4a-9e7a-f34c9ba3cebc,C007,2025-02-12,P009,3,78,234,Glasgow,Online,Credit Card
+f7b9398d-8e67-4e79-a72c-27a423a60d36,C012,2022-01-06,P025,5,40,200,Manchester,Online,PayPal
+17bd2b0f-e35a-41a3-b2d7-5479b9b8fc65,C085,2021-08-15,P013,4,48,192,Manchester,Online,PayPal
+d4cd1cdb-3768-4051-8c93-686b74063a8b,C084,2020-09-25,P002,3,92,276,Glasgow,Offline,Cash
+cc8d2997-3588-417b-beba-7db52d83d421,C081,2022-01-08,P034,1,73,73,London,Offline,Credit Card
+1b97c033-2257-46d1-a493-d7a3aed9c1b9,C059,2023-01-28,P029,2,85,170,Glasgow,Offline,Credit Card
+62274fbc-fe8f-4ac5-b241-4296f0a34683,C094,2022-09-01,P048,2,19,38,Birmingham,Online,Cash
+f3813aac-f1d7-4147-9d4b-406eac523594,C081,2024-04-14,P012,4,17,68,Manchester,Online,Cash
+ea3945c2-64e5-49a8-a05b-14b73eb61970,C081,2023-02-16,P011,1,85,85,Manchester,Offline,Credit Card
+54afe65f-4920-4bab-991e-dcb1eca4e43b,C099,2020-08-17,P032,2,63,126,Glasgow,Offline,PayPal
+1ce4f354-2929-4a64-8713-84715bf683de,C089,2021-01-22,P015,2,39,78,Manchester,Online,Credit Card
+80a0b86f-6bb6-49b7-8244-f7a5341261dd,C065,2020-04-06,P024,1,88,88,London,Online,Credit Card
+cb776eb2-00a2-4375-82f8-68de3521b84d,C016,2021-09-29,P048,5,19,95,Glasgow,Online,Credit Card
+cee88b76-5908-4aa4-9cc0-bf0cad5cd2f1,C041,2023-02-20,P035,3,10,30,Birmingham,Online,Credit Card
+5f82927d-9c52-4c87-93c2-2eff1386352a,C009,2023-02-20,P034,5,73,365,Manchester,Offline,PayPal
+2b1d0097-df4d-4ecb-8886-37454d3489a6,C038,2024-08-10,P021,2,38,76,Birmingham,Offline,PayPal
+6924b03e-3513-4677-a884-bd654c784a33,C072,2024-01-09,P014,1,65,65,Birmingham,Online,PayPal
+a1164c45-5856-4bda-8a92-4a72b31e7fe2,C081,2024-03-28,P037,4,98,392,London,Online,Credit Card
+34bb9f66-da41-44d4-abd4-7fde0ecd7811,C076,2021-09-26,P044,3,97,291,Glasgow,Online,Credit Card
+479a922f-60b2-4424-968e-2d9c1755e9be,C070,2020-10-02,P015,1,39,39,Glasgow,Offline,PayPal
+b931ca40-024e-44a6-8a22-fd6acf1e4cb0,C099,2021-11-15,P047,2,56,112,London,Offline,PayPal
+7669303a-cdf5-4fe8-aacf-f68623ef62ae,C094,2021-02-13,P008,5,46,230,Glasgow,Offline,Cash
+b025aa52-b62b-4838-aa86-de9df51c2f41,C024,2023-12-20,P001,4,97,388,Birmingham,Offline,PayPal
+8e85b35b-aedd-4bba-9d6b-c334a7fed230,C001,2023-08-05,P038,3,48,144,London,Offline,PayPal
+2c4e9f1d-02d2-4422-baba-ca8c068fb465,C037,2020-03-25,P020,2,95,190,Manchester,Online,Credit Card
+6966631a-ed9c-445c-9247-ec596bcf2a6b,C049,2020-05-17,P015,4,39,156,Birmingham,Online,Credit Card
+5d29bfde-e7d3-4ae2-b7da-53cf6afbfa98,C084,2021-12-14,P006,5,15,75,London,Offline,PayPal
+96322e10-7791-4a66-a493-50043deb5f83,C016,2023-10-15,P013,3,48,144,London,Online,Credit Card
+1558a7b7-39be-46a4-bc9b-7da69890c836,C049,2023-01-28,P036,2,79,158,London,Online,Cash
+f7a1d1a3-025f-4cd9-94a3-bd2f84007392,C085,2024-11-18,P002,4,92,368,London,Online,Credit Card
+95741088-25be-4168-b478-fae7d2223cc6,C084,2020-04-19,P026,5,37,185,Manchester,Online,Credit Card
+9a0f58f7-634a-433f-ab47-0864a59e2b65,C013,2023-09-04,P008,2,46,92,Manchester,Online,Credit Card
+3504b509-210e-4ba3-bc87-4ed09dc1f2e0,C071,2025-01-28,P050,5,74,370,Manchester,Offline,Cash
+46a31344-6c66-4ec3-ae8a-a7e32997d02e,C058,2024-05-24,P041,4,81,324,Glasgow,Online,Credit Card
+39a99d8a-bd77-4bd1-b6dd-dc70fd490c60,C001,2021-05-14,P030,3,48,144,Manchester,Offline,Credit Card
+274c0ce8-7ca8-4498-8997-980a6ab6077c,C042,2023-12-23,P025,4,40,160,Glasgow,Offline,PayPal
+d95ebb01-67e5-49fe-902d-81cca3d6a0ae,C022,2020-04-11,P038,2,48,96,Birmingham,Offline,PayPal
+96369a87-e406-4d39-9faf-b02ba25b0e65,C031,2024-08-05,P043,5,67,335,London,Offline,PayPal
+e28a9b2a-44ef-408c-a6ee-1ed37109362b,C009,2020-06-21,P022,3,78,234,Manchester,Online,Credit Card
+09204679-e507-47bd-8aae-eb96d6bf162f,C088,2021-04-10,P032,1,63,63,Glasgow,Online,PayPal
+11ec1347-8bb5-4047-9b40-656e2de6bd8d,C073,2023-02-17,P011,3,85,255,Glasgow,Offline,Cash
+ebe7f5b4-814c-4a2a-a11c-8397dc1f63e9,C084,2020-08-02,P045,4,40,160,Manchester,Online,Credit Card
+3f93acea-d7c7-4ee5-95e5-cec9f80ed8ac,C100,2021-06-10,P033,4,15,60,London,Offline,PayPal
+3cae26ad-b2d7-4de0-87e7-c1a0b9a80254,C044,2021-05-26,P030,2,48,96,Manchester,Online,PayPal
+95e479be-597f-4e74-85b2-300254141419,C072,2024-07-16,P041,5,81,405,Manchester,Offline,Cash
+f37a9499-32d3-4709-bcb7-e1a905a2d819,C092,2021-11-19,P004,3,91,273,Manchester,Offline,PayPal
+58b44386-0f2b-4574-8a6d-1c56c6f14e29,C028,2022-07-22,P044,5,97,485,Birmingham,Online,PayPal
+62b776b2-0976-44ad-a749-1dc8ecad8db8,C041,2024-10-01,P036,2,79,158,Manchester,Offline,PayPal
+587f0ad9-9c54-4ce4-a7bb-54995b86ba7f,C057,2023-07-02,P003,3,36,108,Birmingham,Offline,Credit Card
+7f8e5cb4-83a1-4be3-82a5-29cf7748d804,C047,2022-07-16,P039,1,27,27,Birmingham,Online,Cash
+4a832aad-b11b-4cb7-8510-b9d5373752d3,C032,2024-06-06,P012,2,17,34,Birmingham,Offline,Credit Card
+35325111-7594-4e38-a1ee-24625981ec02,C008,2022-11-14,P034,5,73,365,London,Online,Credit Card
+40352934-928e-43d2-8f4a-810af864cd7b,C081,2024-04-17,P031,4,11,44,London,Offline,Credit Card
+a468e183-2f92-4f2b-88b1-f2cf7dbc7978,C065,2023-12-03,P013,3,48,144,Glasgow,Online,Cash
+e55cccb6-d961-4ee1-bb36-61628f5bf14c,C099,2025-01-05,P016,2,98,196,Glasgow,Online,Cash
+cee696e6-437e-4193-a6d8-924dc66be7c3,C095,2022-05-28,P030,4,48,192,Manchester,Offline,Credit Card
+24d9c780-850a-48f7-9c7d-b23a95b07536,C072,2023-02-26,P003,1,36,36,Manchester,Offline,PayPal
+ddd6dfe2-c269-4c7c-83ba-4d978cc6228a,C002,2021-01-19,P001,5,97,485,Birmingham,Online,Cash
+7c84c095-c386-4693-b93e-23f3cb419e00,C071,2024-02-27,P002,3,92,276,London,Offline,PayPal
+de92222b-46ae-475d-bfd1-b29cf7b36242,C078,2023-06-08,P035,4,10,40,Birmingham,Offline,Cash
+c3a8cf3b-8acb-4cc1-925d-b12f933427fb,C070,2022-11-20,P004,2,91,182,Manchester,Offline,PayPal
+fdbc5414-cf20-4274-b3ca-85824d19a14e,C019,2022-12-07,P022,2,78,156,Glasgow,Online,Credit Card
+bfcaf01f-9118-461c-bb7a-6867d7f04e2c,C017,2024-04-04,P023,4,33,132,Glasgow,Offline,Credit Card
+f09d9368-3e4a-40ce-a99f-33a6acae5af5,C020,2021-04-30,P022,4,78,312,Glasgow,Offline,Credit Card
+a281037a-6402-4182-b4b1-7e1868f9d700,C036,2022-10-14,P023,1,33,33,Manchester,Offline,PayPal
+603c0b01-5f5a-4ab8-a12f-40e40cf428da,C062,2023-12-09,P034,3,73,219,London,Offline,PayPal
+9cfe2e83-1a19-4173-8067-d2fe55709864,C022,2023-02-04,P044,4,97,388,London,Online,Cash
+70989cad-b284-4b44-8ff3-6a014ad3ea6b,C086,2021-10-21,P034,3,73,219,Birmingham,Offline,PayPal
+6d53a1be-35fc-4e82-a908-f5541715d988,C050,2021-01-10,P035,1,10,10,Glasgow,Online,Credit Card
+7b96e3ee-6b6e-4228-835c-f148a80f6669,C006,2020-07-03,P041,4,81,324,London,Online,Credit Card
+8991e491-9051-42dc-92b5-9753e178d844,C033,2021-12-22,P017,4,80,320,Birmingham,Online,Cash
+4e7b96b1-82d2-4371-af35-4af118e856b6,C014,2022-01-11,P012,4,17,68,London,Offline,Cash
+57f5efff-b7f6-4b4a-8243-05540938f01f,C071,2021-09-23,P036,3,79,237,Manchester,Online,Cash
+888a223c-7fd8-4976-87f4-d01aca166f10,C093,2020-05-05,P036,3,79,237,Manchester,Offline,Cash
+ad24b45e-bd5c-4088-95a5-2fd53198ca93,C025,2024-12-25,P005,2,72,144,Manchester,Offline,PayPal
+530fcef6-6f2d-4d05-a037-ab017df8a5a2,C036,2023-07-31,P030,5,48,240,Manchester,Offline,Credit Card
+8ad791d6-efc6-4a16-878a-08102c7a9cdf,C058,2020-09-21,P024,5,88,440,Birmingham,Offline,Credit Card
+1989011b-5f11-4c97-926f-60daa68e6d34,C046,2024-11-14,P043,1,67,67,Manchester,Offline,PayPal
+8d7ce86d-739d-4fc2-a81a-cfbd1c5cdbbf,C025,2021-06-16,P045,4,40,160,Birmingham,Online,Cash
+8fa01a0a-b240-4666-936d-027b4a55c1eb,C046,2022-09-18,P038,4,48,192,Birmingham,Offline,Cash
+d91e2e46-a6a3-45cb-9d25-e250f9393649,C006,2023-03-15,P031,4,11,44,Birmingham,Offline,Cash
+472a6371-b9ac-4316-b7b6-aae3334a71a1,C039,2021-02-20,P007,4,22,88,Manchester,Offline,Credit Card
+d73994b2-3431-4328-aa41-506934d8bbfb,C069,2023-05-25,P001,1,97,97,Glasgow,Offline,PayPal
+c7acda1d-78b7-43fa-93bd-d20fa2693dc6,C016,2024-07-22,P036,4,79,316,Manchester,Offline,Cash
+7730f891-1f2e-401f-bc72-fe17eba97ff4,C038,2021-01-15,P002,2,92,184,Glasgow,Offline,Credit Card
+aaccdf04-b023-4065-a1f3-49a9a91051f7,C024,2024-11-08,P016,3,98,294,Glasgow,Offline,Credit Card
+06b1e88b-5de3-4e40-b840-2d38d6e66d75,C007,2023-09-14,P029,2,85,170,London,Offline,Cash
+7e2cba42-20b2-4c17-bba9-aa646ed70a51,C065,2024-09-27,P015,3,39,117,Birmingham,Offline,Credit Card
+e92f7902-e922-47d8-8eaf-8bee29c68cbc,C055,2024-09-08,P031,1,11,11,Birmingham,Online,Credit Card
+ea7a259d-eb81-46e9-9104-346199151b37,C037,2025-03-31,P012,3,17,51,Manchester,Offline,Credit Card
+40260ef0-e738-4d39-a0d2-9c07b843445d,C035,2022-03-02,P044,1,97,97,London,Offline,Credit Card
+aa9da26e-b75b-44ac-934f-b47b30b2462f,C079,2025-02-22,P040,5,43,215,Manchester,Offline,PayPal
+72be2d0d-2e39-4646-8706-0d579ebc1253,C044,2021-11-18,P019,1,92,92,Glasgow,Offline,PayPal
+16f199ea-7634-43ca-aedc-5fa9800038c3,C083,2024-06-01,P050,4,74,296,Glasgow,Online,Credit Card
+db9e4b20-d095-4fa7-958c-0386fbba74dd,C089,2021-09-15,P025,3,40,120,Glasgow,Online,PayPal
+675e5b88-e8a5-4612-a03b-c72eb5a41a20,C026,2023-03-22,P042,5,92,460,Manchester,Online,Credit Card
+c2c2f4aa-a72e-4984-be28-da173b57f160,C001,2024-10-19,P048,3,19,57,Glasgow,Offline,Credit Card
+0c7527b3-9412-4f15-b35a-b2755a132f74,C067,2022-01-15,P003,1,36,36,London,Offline,Credit Card
+2366912c-31c7-4b8e-8096-d20feed02d9b,C034,2024-01-21,P003,2,36,72,Manchester,Online,Cash
+1b64e4cf-1b81-49fa-928a-d5d3f1d95a99,C024,2024-05-13,P008,2,46,92,London,Online,Cash
+5093f3e3-f8c5-41f8-90fc-4dfd3ed69e33,C097,2023-08-26,P027,2,70,140,Manchester,Offline,PayPal
+f40934fc-34d9-4c79-baa1-eeed2141cd50,C043,2024-11-20,P035,5,10,50,London,Offline,Credit Card
+cda6e972-cb2e-4eb3-987a-1f1ca4467fb2,C091,2023-04-07,P003,5,36,180,Birmingham,Offline,Credit Card
+286a4ffa-70da-4d03-b656-5a91bc051ada,C075,2021-01-31,P046,1,70,70,London,Offline,PayPal
+47b23a10-8807-4de0-b840-98e03a606dc2,C073,2020-08-06,P034,5,73,365,Birmingham,Offline,PayPal
+fc534fe9-0395-47e8-9970-14c1ee44dcc1,C088,2024-03-25,P047,2,56,112,Glasgow,Offline,PayPal
+72b632d1-91e1-4190-bba5-c67bb0f62b90,C041,2023-06-26,P032,4,63,252,Manchester,Offline,PayPal
+3b47dd9a-565d-4173-9165-6aea31443b95,C020,2023-07-19,P002,4,92,368,Glasgow,Online,Credit Card
+cfd41588-f77f-4ee6-ba1a-822feb2d062f,C012,2020-11-03,P010,4,94,376,Birmingham,Online,PayPal
+e0af8402-64a9-4d3d-96a5-fc8dbfbc137c,C021,2025-02-03,P014,1,65,65,Glasgow,Offline,PayPal
+8b37f168-2c2e-4a54-92a1-9f37eec30593,C058,2020-06-01,P005,1,72,72,Manchester,Online,Cash
+5dd84350-1047-4c4a-9379-d43a5bd07ddb,C068,2023-11-12,P046,4,70,280,Manchester,Offline,PayPal
+a0202567-d111-4839-bdfa-d5e8ec34a0f9,C058,2024-02-22,P048,5,19,95,Glasgow,Offline,Credit Card
+c9e0bfb5-43f6-4772-87c7-c53dda1d0c99,C100,2024-03-03,P041,5,81,405,Glasgow,Offline,Cash
+cabf71c1-dd36-4f28-bb23-2ae934c46551,C097,2024-09-11,P032,2,63,126,Manchester,Offline,PayPal
+c1020836-b332-4e29-9d38-6c6d9f363a90,C082,2024-06-24,P050,1,74,74,Birmingham,Online,PayPal
+b2e3dcea-bf42-49e5-b824-e7846f5bd731,C051,2021-07-15,P023,2,33,66,Glasgow,Online,PayPal
+1ffacb84-cb74-4c3e-b0bb-88ac5c90b55a,C028,2020-01-11,P031,5,11,55,Glasgow,Offline,PayPal
+9ac758d3-6847-4b20-b46a-137642d3cd51,C007,2023-05-22,P050,1,74,74,Birmingham,Offline,PayPal
+06492138-b52f-4c14-ac6f-5eabd5d85123,C030,2021-05-04,P022,2,78,156,Glasgow,Offline,Credit Card
+8831585a-eed2-4d1f-87a0-f52e2e4af7a8,C085,2024-03-17,P011,2,85,170,Birmingham,Offline,PayPal
+4b7861ca-b3f0-4687-9f60-033282ab15c1,C055,2023-01-05,P037,2,98,196,London,Offline,Credit Card
+f4213102-d37a-4b62-b57b-7127fa31f7b2,C057,2020-06-27,P005,4,72,288,London,Offline,PayPal
+b2a03694-11e2-4905-9066-e1b05f0e4eb4,C045,2020-02-15,P025,5,40,200,Birmingham,Offline,Credit Card
+9664dd25-3e31-4864-81e5-039c684cb776,C046,2024-02-06,P040,2,43,86,Manchester,Online,Cash
+3170c964-a3d7-4db2-8063-dea3d3a6c071,C044,2022-11-03,P003,3,36,108,London,Online,Cash
+add30547-6861-471d-a8ca-7d26bb67733e,C085,2023-11-18,P027,2,70,140,Glasgow,Offline,Cash
+d2c9f33d-d2cf-47b1-a137-65cbbc725a77,C078,2025-03-01,P007,1,22,22,Glasgow,Online,Credit Card
+89ed67e0-93db-4e73-9eac-485dc90e3a5d,C095,2020-12-23,P036,3,79,237,Glasgow,Online,Cash
+8b60a743-de28-4dd8-a2b8-43765704d3f7,C072,2022-02-03,P036,5,79,395,London,Online,PayPal
+2dc92562-95b6-4950-86fd-ded7461e1a41,C072,2023-12-08,P026,1,37,37,Manchester,Online,Credit Card
+6376326a-8004-4f94-b2ed-6c2b2af9acc4,C011,2021-06-08,P014,2,65,130,Glasgow,Online,Cash
+d38cca93-5adc-43e7-892f-0b6d4d5911bd,C087,2021-09-12,P008,2,46,92,London,Offline,Cash
+f738e823-4471-4fc7-9ff3-b02c5a80181c,C014,2024-09-04,P027,5,70,350,Manchester,Offline,PayPal
+86cbc6ec-be1e-47bf-a2ba-3af239110f1d,C067,2022-01-21,P006,3,15,45,Birmingham,Offline,PayPal
+e91c18b9-a222-448b-aa33-8ae8bdf8a7cf,C032,2024-03-30,P028,1,83,83,Birmingham,Online,PayPal
+fc528d09-e74a-4a81-ba6b-bae265344862,C033,2020-10-23,P045,4,40,160,Manchester,Offline,Credit Card
+9c876150-1c2f-4eae-b636-f74bdabfb0e1,C095,2025-02-17,P032,4,63,252,London,Offline,Credit Card
+bb70d2de-dd5b-47d4-a67a-0690b09d9a8d,C024,2024-06-28,P011,3,85,255,Manchester,Offline,Credit Card
+47103687-8213-4b24-aadb-d75276bcfe0f,C017,2022-11-29,P036,5,79,395,Birmingham,Offline,PayPal
+37921ad5-ce86-4e96-856e-aab51e387a6c,C054,2024-10-31,P029,1,85,85,Manchester,Online,Credit Card
+ca17c732-6131-4b29-a1cf-9f42161738bb,C074,2023-01-16,P019,1,92,92,Glasgow,Online,Credit Card
+7c9d8683-9356-4edf-aa5c-682c42c989a7,C038,2021-08-22,P028,2,83,166,Manchester,Offline,Cash
+efe2d996-06d8-44b1-a91a-4cfa98796eef,C028,2022-08-02,P001,1,97,97,Birmingham,Online,Credit Card
+5880987a-5757-4bb5-9a67-8c7aa9651967,C096,2023-05-31,P012,4,17,68,London,Online,PayPal
+41b9ef31-43a4-40a4-8299-6f787288840b,C033,2024-07-16,P007,2,22,44,Birmingham,Offline,Cash
+8b8de187-4b86-4257-9590-756e4d6440dc,C065,2021-01-18,P014,2,65,130,Manchester,Offline,Credit Card
+910c139c-7aef-4dba-83ab-abdac85f997e,C088,2024-10-20,P048,3,19,57,Manchester,Online,Credit Card
+efcb28b7-0dbf-498e-aa20-c0dd9dbb86c5,C033,2025-03-10,P004,3,91,273,Manchester,Offline,Credit Card
+b81c4257-17f1-4892-a5ae-fa4925c37567,C074,2024-02-27,P012,5,17,85,Glasgow,Online,PayPal
+19b98540-a0fb-4b17-aaf8-9ce4733b6b19,C085,2020-02-24,P027,3,70,210,London,Online,PayPal
+848c7020-28b2-457c-a311-880ae1f18e26,C070,2022-10-05,P003,1,36,36,Glasgow,Offline,Credit Card
+041557e2-d509-4e3d-8fea-5263a83ca6a4,C061,2024-11-21,P049,1,28,28,Glasgow,Offline,Credit Card
+c5d969db-f7f9-4623-8813-7ec1c1fb3cda,C077,2020-04-17,P006,3,15,45,Birmingham,Online,Credit Card
+4230e5f5-361c-45e6-9d82-97d47c3c492a,C056,2020-12-31,P004,2,91,182,London,Online,Credit Card
+dd103e8e-9587-4cf5-b821-887a6918de63,C006,2024-07-10,P007,3,22,66,Glasgow,Offline,Cash
+a3cb207e-4d11-4986-8706-7be909056186,C007,2022-02-27,P021,3,38,114,Manchester,Offline,Cash
+396af589-60e2-4813-98b5-83faafe7bdf7,C004,2024-06-20,P049,3,28,84,Birmingham,Online,PayPal
+b74cb5e6-82d7-445a-9c91-fdcfb931d14b,C099,2020-11-22,P034,4,73,292,Glasgow,Online,PayPal
+53e2e41d-5b96-4de3-b528-79d1ddfbd029,C006,2023-04-07,P044,4,97,388,Birmingham,Offline,Credit Card
+08fe8b2c-e309-4fb9-a26e-ca2e2ec12ef0,C095,2023-04-29,P031,5,11,55,Birmingham,Online,Cash
+24f0c4f6-0e10-46b2-8d45-72facffd03e4,C031,2020-02-06,P048,1,19,19,Manchester,Online,Cash
+f36e466b-0dfb-456e-8f7c-2767afec1900,C079,2021-07-18,P038,2,48,96,Birmingham,Offline,PayPal
+301cf54e-a1db-431b-bc33-f5f9b4ab37e4,C004,2021-06-21,P013,5,48,240,London,Offline,Cash
+44806468-a55e-4a30-96a5-e41f05636652,C092,2021-08-28,P041,1,81,81,Glasgow,Offline,PayPal
+75d5947f-10e8-461d-8318-070c778375c3,C019,2022-03-29,P017,5,80,400,Birmingham,Online,PayPal
+7e694057-b5bb-4882-a28f-2e4ea64b113c,C059,2022-02-18,P047,4,56,224,London,Offline,Cash
+68b96aa8-b5f8-4ecc-8111-7c60df4a54b2,C053,2020-07-31,P028,1,83,83,Glasgow,Online,PayPal
+0a92004c-0c37-4d49-8467-945d387e9af9,C042,2021-11-18,P017,2,80,160,Manchester,Online,Credit Card
+26375b79-52de-4d29-8558-76dd8a95a644,C093,2022-05-18,P032,1,63,63,Glasgow,Online,PayPal
+b12bc723-0a0f-4ee3-8421-f5c018ed9fcb,C013,2023-02-24,P022,3,78,234,Glasgow,Offline,Credit Card
+0fb6bf82-c5a3-49a4-827b-acb54625d2b5,C091,2020-07-13,P028,5,83,415,Glasgow,Online,PayPal
+1c97f643-4fb3-413d-af8c-037177d90dfb,C016,2021-06-05,P011,5,85,425,London,Offline,Credit Card
+4bdfe991-c9cd-454d-a66f-2e6086afb3f2,C010,2022-05-17,P026,1,37,37,London,Online,Credit Card
+26c08b0a-6053-475d-ab90-8d306035fde8,C029,2020-11-09,P026,1,37,37,Birmingham,Online,Credit Card
+96b11856-a073-41ae-9c83-58c11d1169b4,C059,2021-03-28,P006,2,15,30,London,Offline,PayPal
+b2fe0578-e1e0-4dae-9597-ad591de3542c,C016,2021-03-30,P023,1,33,33,Glasgow,Online,Cash
+811d0dfd-f01c-40fb-a6ef-371fe59d6ded,C023,2021-12-24,P026,2,37,74,Glasgow,Offline,Cash

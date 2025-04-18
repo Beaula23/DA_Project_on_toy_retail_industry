@@ -1,2 +1,3 @@
-# DA_Project_on_toy_retail_industry
-This project leverages data analytics to explore customer behavior and sales trends across major toy industry players Hasbro, Hamleys, LEGO, and Mattel. The analysis aims to uncover key consumer insights, purchasing patterns, and factors influencing sales performance.
+# Customer Sales & Purchase Behaviour Analysis - Interactive Dashboard Project
+## Project Objective
+To analyse sales performance and customer behaviour patterns across four leading toy retailers, identify market trends, and uncover actionable insights to improve revenue, customer loyalty, and engagement.

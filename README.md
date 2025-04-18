@@ -26,5 +26,10 @@ To analyse sales performance and customer behaviour patterns across four leading
 ![Cust_Sales_Dashboard](https://github.com/user-attachments/assets/0ff7e03e-b2b6-486c-92c2-f5cc5fb621a4)
 ### Customer Behaviour Dashboard
 ![Cust_Behaviour_Dashborad](https://github.com/user-attachments/assets/1c41d755-0820-4320-a8a6-bc308ae99fc4)
+## Insights & Recommendations
+-	Focus more on offline sales optimization as it holds a slight majority.
+-	Strengthen engagement with the 35–54 age group, which shows the highest customer count and CLV.
+-	Encourage repeat purchases through loyalty programs for younger age groups.
+-	Address negative feedback on the phone and in-store channels.
 
 

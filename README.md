@@ -21,3 +21,5 @@ To analyse sales performance and customer behaviour patterns across four leading
 ## Documentation
 - I have prepared the entire report within this word ducment, please feel free to checkout, providing link to download the report <a href="https://github.com/Beaula23/DA_Project_on_toy_retail_industry/raw/refs/heads/main/Mini%20Project%20Dashboard%20Report.docx">Project Report</a>.
 - I have created another document where I have mentioned all the steps taken to create this project, please feel free to checkout, providing the download link <a href="https://github.com/Beaula23/DA_Project_on_toy_retail_industry/raw/refs/heads/main/Mini%20Project%20Work%20Document.docx">Project Work Document</a>.
+## Dashboard
+### First Screenshot

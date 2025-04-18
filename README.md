@@ -18,3 +18,5 @@ To analyse sales performance and customer behaviour patterns across four leading
 -	Which loyalty status and age group combination provides the highest Customer Lifetime Value (CLV), and how can we focus efforts on growing that segment?
 ## Datasets Used
 - <a href="https://github.com/Beaula23/DA_Project_on_toy_retail_industry/tree/main/Datasets">Toy Dataset folder</a>
+## Documentation
+- I have prepared the entire report within this word ducment, please feel free to checkout, providing link to download the report <a href="https://github.com/Beaula23/DA_Project_on_toy_retail_industry/raw/refs/heads/main/Mini%20Project%20Dashboard%20Report.docx">Project Report</a>.

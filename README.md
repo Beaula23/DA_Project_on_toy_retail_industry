@@ -16,3 +16,5 @@ To analyse sales performance and customer behaviour patterns across four leading
 -	What is the retention rate of customers ?
 -	What is the average basket size ?
 -	Which loyalty status and age group combination provides the highest Customer Lifetime Value (CLV), and how can we focus efforts on growing that segment?
+## Datasets Used
+- <a href="https://github.com/Beaula23/DA_Project_on_toy_retail_industry/tree/main/Datasets">Toy Dataset folder</a>
